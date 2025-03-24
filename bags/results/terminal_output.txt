@@ -1,0 +1,925 @@
+[Initialization] rotation extrinsic set as default parameters (degree); 
+euler_ItoL:  -0 180  -0; euler_LtoI:  -0 180  -0
+[Paper] Initialization costs 296542.82 ms
+        [Start] costs 296542.82 ms
+        [DataAssociationInOdom] starts ...
+scan_time: 0.01
+scan_time: 0.11
+scan_time: 0.21
+scan_time: 0.31
+scan_time: 0.41
+scan_time: 0.51
+scan_time: 0.61
+scan_time: 0.71
+scan_time: 0.81
+scan_time: 0.91
+scan_time: 1.01
+scan_time: 1.11
+scan_time: 1.21
+scan_time: 1.31
+scan_time: 1.41
+scan_time: 1.51
+scan_time: 1.61
+scan_time: 1.71
+scan_time: 1.81
+scan_time: 1.91
+scan_time: 2.01
+scan_time: 2.11
+scan_time: 2.21
+scan_time: 2.31
+scan_time: 2.41
+scan_time: 2.51
+scan_time: 2.61
+scan_time: 2.71
+scan_time: 2.81
+scan_time: 2.91
+scan_time: 3.01
+scan_time: 3.11
+scan_time: 3.21
+scan_time: 3.31
+scan_time: 3.41
+scan_time: 3.51
+scan_time: 3.61
+scan_time: 3.71
+scan_time: 3.81
+scan_time: 3.91
+scan_time: 4.01
+scan_time: 4.11
+scan_time: 4.21
+scan_time: 4.31
+scan_time: 4.41
+scan_time: 4.51
+scan_time: 4.61
+scan_time: 4.71
+scan_time: 4.81
+scan_time: 4.91
+scan_time: 5.01
+scan_time: 5.11
+scan_time: 5.21
+scan_time: 5.31
+scan_time: 5.41
+scan_time: 5.51
+scan_time: 5.61
+scan_time: 5.71
+scan_time: 5.81
+scan_time: 5.91
+scan_time: 6.01
+scan_time: 6.11
+scan_time: 6.21
+scan_time: 6.31
+scan_time: 6.41
+scan_time: 6.51
+scan_time: 6.61
+scan_time: 6.71
+scan_time: 6.81
+scan_time: 6.91
+scan_time: 7.01
+scan_time: 7.11
+scan_time: 7.21
+scan_time: 7.31
+scan_time: 7.41
+scan_time: 7.51
+scan_time: 7.61
+scan_time: 7.71
+scan_time: 7.81
+scan_time: 7.91
+scan_time: 8.01
+scan_time: 8.11
+scan_time: 8.21
+scan_time: 8.31
+scan_time: 8.41
+scan_time: 8.51
+scan_time: 8.61
+scan_time: 8.71
+scan_time: 8.81
+scan_time: 8.91
+scan_time: 9.01
+scan_time: 9.11
+scan_time: 9.21
+scan_time: 9.31
+scan_time: 9.41
+scan_time: 9.51
+scan_time: 9.61
+scan_time: 9.71
+scan_time: 9.81
+scan_time: 9.91
+scan_time: 10.01
+scan_time: 10.11
+scan_time: 10.21
+scan_time: 10.31
+scan_time: 10.41
+scan_time: 10.51
+scan_time: 10.61
+scan_time: 10.71
+scan_time: 10.81
+scan_time: 10.91
+scan_time: 11.01
+scan_time: 11.11
+scan_time: 11.21
+scan_time: 11.31
+scan_time: 11.41
+scan_time: 11.51
+scan_time: 11.61
+scan_time: 11.71
+scan_time: 11.81
+scan_time: 11.91
+scan_time: 12.01
+scan_time: 12.11
+scan_time: 12.21
+scan_time: 12.31
+scan_time: 12.41
+scan_time: 12.51
+scan_time: 12.61
+scan_time: 12.71
+scan_time: 12.81
+scan_time: 12.91
+scan_time: 13.01
+scan_time: 13.11
+scan_time: 13.21
+scan_time: 13.31
+scan_time: 13.41
+scan_time: 13.51
+scan_time: 13.61
+scan_time: 13.71
+scan_time: 13.81
+scan_time: 13.91
+scan_time: 14.01
+scan_time: 14.11
+scan_time: 14.21
+scan_time: 14.31
+scan_time: 14.41
+scan_time: 14.51
+scan_time: 14.61
+scan_time: 14.71
+scan_time: 14.81
+scan_time: 14.91
+scan_time: 15.01
+scan_time: 15.11
+scan_time: 15.21
+scan_time: 15.31
+scan_time: 15.41
+scan_time: 15.51
+scan_time: 15.61
+scan_time: 15.71
+scan_time: 15.81
+scan_time: 15.91
+scan_time: 16.01
+scan_time: 16.11
+scan_time: 16.21
+scan_time: 16.31
+scan_time: 16.41
+scan_time: 16.51
+scan_time: 16.61
+scan_time: 16.71
+scan_time: 16.81
+scan_time: 16.91
+scan_time: 17.01
+scan_time: 17.11
+scan_time: 17.21
+scan_time: 17.31
+scan_time: 17.41
+scan_time: 17.51
+scan_time: 17.61
+scan_time: 17.71
+scan_time: 17.81
+scan_time: 17.91
+scan_time: 18.01
+scan_time: 18.11
+scan_time: 18.21
+scan_time: 18.31
+scan_time: 18.41
+scan_time: 18.51
+scan_time: 18.61
+scan_time: 18.71
+scan_time: 18.81
+scan_time: 18.91
+scan_time: 19.01
+scan_time: 19.11
+scan_time: 19.21
+scan_time: 19.31
+scan_time: 19.41
+scan_time: 19.51
+scan_time: 19.61
+scan_time: 19.71
+scan_time: 19.81
+scan_time: 19.91
+scan_time: 20.01
+scan_time: 20.11
+scan_time: 20.21
+scan_time: 20.31
+scan_time: 20.41
+scan_time: 20.51
+scan_time: 20.61
+scan_time: 20.71
+scan_time: 20.81
+scan_time: 20.91
+scan_time: 21.01
+scan_time: 21.11
+scan_time: 21.21
+scan_time: 21.31
+scan_time: 21.41
+scan_time: 21.51
+scan_time: 21.61
+scan_time: 21.71
+scan_time: 21.81
+scan_time: 21.91
+scan_time: 22.01
+scan_time: 22.11
+scan_time: 22.21
+scan_time: 22.31
+scan_time: 22.41
+scan_time: 22.51
+scan_time: 22.61
+scan_time: 22.71
+scan_time: 22.81
+scan_time: 22.91
+scan_time: 23.01
+scan_time: 23.11
+scan_time: 23.21
+scan_time: 23.31
+scan_time: 23.41
+scan_time: 23.51
+scan_time: 23.61
+scan_time: 23.71
+scan_time: 23.81
+scan_time: 23.91
+scan_time: 24.01
+scan_time: 24.11
+scan_time: 24.21
+scan_time: 24.31
+scan_time: 24.41
+scan_time: 24.51
+scan_time: 24.61
+scan_time: 24.71
+scan_time: 24.81
+scan_time: 24.91
+scan_time: 25.01
+scan_time: 25.11
+scan_time: 25.21
+scan_time: 25.31
+scan_time: 25.41
+scan_time: 25.51
+scan_time: 25.61
+scan_time: 25.71
+scan_time: 25.81
+scan_time: 25.91
+scan_time: 26.01
+scan_time: 26.11
+scan_time: 26.21
+scan_time: 26.31
+scan_time: 26.41
+scan_time: 26.51
+scan_time: 26.61
+scan_time: 26.71
+scan_time: 26.81
+scan_time: 26.91
+scan_time: 27.01
+scan_time: 27.11
+scan_time: 27.21
+scan_time: 27.31
+scan_time: 27.41
+scan_time: 27.51
+scan_time: 27.61
+scan_time: 27.71
+scan_time: 27.81
+scan_time: 27.91
+scan_time: 28.01
+scan_time: 28.11
+scan_time: 28.21
+scan_time: 28.31
+scan_time: 28.41
+scan_time: 28.51
+scan_time: 28.61
+scan_time: 28.71
+scan_time: 28.81
+scan_time: 28.91
+scan_time: 29.01
+scan_time: 29.11
+scan_time: 29.21
+scan_time: 29.31
+scan_time: 29.41
+scan_time: 29.51
+scan_time: 29.61
+scan_time: 29.71
+scan_time: 29.81
+scan_time: 29.91
+scan_time: 30.01
+scan_time: 30.11
+scan_time: 30.21
+scan_time: 30.31
+scan_time: 30.41
+scan_time: 30.51
+scan_time: 30.61
+scan_time: 30.71
+scan_time: 30.81
+scan_time: 30.91
+scan_time: 31.01
+scan_time: 31.11
+scan_time: 31.21
+scan_time: 31.31
+scan_time: 31.41
+scan_time: 31.51
+scan_time: 31.61
+scan_time: 31.71
+scan_time: 31.81
+scan_time: 31.91
+scan_time: 32.01
+scan_time: 32.11
+scan_time: 32.21
+scan_time: 32.31
+scan_time: 32.41
+scan_time: 32.51
+scan_time: 32.61
+scan_time: 32.71
+scan_time: 32.81
+scan_time: 32.91
+scan_time: 33.01
+scan_time: 33.11
+scan_time: 33.21
+scan_time: 33.31
+scan_time: 33.41
+scan_time: 33.51
+scan_time: 33.61
+scan_time: 33.71
+scan_time: 33.81
+scan_time: 33.91
+scan_time: 34.01
+scan_time: 34.11
+scan_time: 34.21
+scan_time: 34.31
+scan_time: 34.41
+scan_time: 34.51
+scan_time: 34.61
+scan_time: 34.71
+scan_time: 34.81
+scan_time: 34.91
+scan_time: 35.01
+scan_time: 35.11
+scan_time: 35.21
+scan_time: 35.31
+scan_time: 35.41
+scan_time: 35.51
+scan_time: 35.61
+scan_time: 35.71
+scan_time: 35.81
+scan_time: 35.91
+scan_time: 36.01
+scan_time: 36.11
+scan_time: 36.21
+scan_time: 36.31
+scan_time: 36.41
+scan_time: 36.51
+scan_time: 36.61
+scan_time: 36.71
+scan_time: 36.81
+scan_time: 36.91
+scan_time: 37.01
+scan_time: 37.11
+scan_time: 37.21
+scan_time: 37.31
+scan_time: 37.41
+scan_time: 37.51
+scan_time: 37.61
+scan_time: 37.71
+scan_time: 37.81
+scan_time: 37.91
+scan_time: 38.01
+scan_time: 38.11
+scan_time: 38.21
+scan_time: 38.31
+scan_time: 38.41
+scan_time: 38.51
+scan_time: 38.61
+scan_time: 38.71
+scan_time: 38.81
+scan_time: 38.91
+scan_time: 39.01
+scan_time: 39.11
+scan_time: 39.21
+scan_time: 39.31
+scan_time: 39.41
+scan_time: 39.51
+scan_time: 39.61
+scan_time: 39.71
+scan_time: 39.81
+scan_time: 39.91
+scan_time: 40.01
+scan_time: 40.11
+scan_time: 40.21
+scan_time: 40.31
+scan_time: 40.41
+scan_time: 40.51
+scan_time: 40.61
+scan_time: 40.71
+scan_time: 40.81
+scan_time: 40.91
+scan_time: 41.01
+scan_time: 41.11
+scan_time: 41.21
+scan_time: 41.31
+scan_time: 41.41
+scan_time: 41.51
+scan_time: 41.61
+scan_time: 41.71
+scan_time: 41.81
+scan_time: 41.91
+scan_time: 42.01
+scan_time: 42.11
+scan_time: 42.21
+scan_time: 42.31
+scan_time: 42.41
+scan_time: 42.51
+scan_time: 42.61
+scan_time: 42.71
+scan_time: 42.81
+scan_time: 42.91
+scan_time: 43.01
+scan_time: 43.11
+scan_time: 43.21
+scan_time: 43.31
+scan_time: 43.41
+scan_time: 43.51
+scan_time: 43.61
+scan_time: 43.71
+scan_time: 43.81
+scan_time: 43.91
+scan_time: 44.01
+scan_time: 44.11
+scan_time: 44.21
+scan_time: 44.31
+scan_time: 44.41
+scan_time: 44.51
+scan_time: 44.61
+scan_time: 44.71
+scan_time: 44.81
+scan_time: 44.91
+scan_time: 45.01
+scan_time: 45.11
+scan_time: 45.21
+scan_time: 45.31
+scan_time: 45.41
+scan_time: 45.51
+scan_time: 45.61
+scan_time: 45.71
+scan_time: 45.81
+scan_time: 45.91
+scan_time: 46.01
+scan_time: 46.11
+scan_time: 46.21
+scan_time: 46.31
+scan_time: 46.41
+scan_time: 46.51
+scan_time: 46.61
+scan_time: 46.71
+scan_time: 46.81
+scan_time: 46.91
+scan_time: 47.01
+scan_time: 47.11
+scan_time: 47.21
+scan_time: 47.31
+scan_time: 47.41
+scan_time: 47.51
+scan_time: 47.61
+scan_time: 47.71
+scan_time: 47.81
+scan_time: 47.91
+scan_time: 48.01
+scan_time: 48.11
+scan_time: 48.21
+scan_time: 48.31
+scan_time: 48.41
+scan_time: 48.51
+scan_time: 48.61
+scan_time: 48.71
+scan_time: 48.81
+scan_time: 48.91
+scan_time: 49.01
+scan_time: 49.11
+scan_time: 49.21
+scan_time: 49.31
+scan_time: 49.41
+scan_time: 49.51
+scan_time: 49.61
+scan_time: 49.71
+scan_time: 49.81
+[Paper] rerun_odom costs 355656.76 ms
+save ndt map to /bags/imu_calibration_ros1/ndt_map.pcd; size : 7005471
+Save ndt odom at /bags/imu_calibration_ros1/ndt-odom-10.000000-60.000000.txt
+[InitialIMUTrajectory]
+odom_data t: 49.81
+traj t: 50.02
+Ceres Solver Report: Iterations: 16, Initial cost: 4.637707e+04, Final cost: 2.274626e-01, Termination: CONVERGENCE
+Refine trajectory
+imu_trajectory t: 50.02
+raw_odom_traj t: 50.20
+[Paper] InitialIMUTrajectory costs 462.68 ms
+Plane type  :2860  631  667; Plane number: 4158
+Surfel point number: 138308
+[Paper] DataAssociation costs 110047.12 ms
+Save trajectory at /bags/imu_calibration_ros1/odom_init_trajectory.txt
+        [DataAssociationInOdom] costs 467048.39 ms
+        [BatchOptimization] starts ...
+
+====== Iteration 0 ======
+Ceres Solver Report: Iterations: 39, Initial cost: 2.225736e+06, Final cost: 3.512274e+03, Termination: CONVERGENCE
+Iteration, 0
+imu_calibration_ros1
+         P_LinI, -0.901, 0.042, -1.553
+     euler_LtoI, 0.32, -178.63, -1.20
+         p_IinL, -0.862, -0.052, -1.574
+     euler_ItoL, 0.35, 178.64, -1.20
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.08, -0.77
+        gravity, -0.131, 0.526, 9.782
+     accel bias, -0.0199, -0.0085, 0.0257
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.639, 0.247, 0.114
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter0.txt
+Save surfel map to /bags/imu_calibration_ros1/ndt_surfel_map-seg0.pcd; size: 4201131
+[Paper] First opt costs 73741.11 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-0.txt
+
+====== Iteration 1 ======
+        [BatchOptimization] costs 73741.71 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2259  572  354; Plane number: 3185
+Surfel point number: 128826
+        [DataAssociationInRefinement] costs 85420.42 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 21, Initial cost: 3.362350e+03, Final cost: 3.323806e+03, Termination: CONVERGENCE
+Iteration, 1
+imu_calibration_ros1
+         P_LinI, -0.869, -0.229, 0.054
+     euler_LtoI, 0.34, -178.59, -0.00
+         p_IinL, -0.870, 0.229, 0.034
+     euler_ItoL, 0.34, 178.59, -0.01
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.04, -0.74
+        gravity, -0.126, 0.520, 9.782
+     accel bias, -0.0127, 0.0019, 0.0257
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.622, 0.266, 0.112
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter1.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter1-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter1-seg0.pcd; size: 3376743
+[Paper] Refinement costs 102982.04 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-1.txt
+
+====== Iteration 2 ======
+        [Refinement] costs 17562.14 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2239  607  340; Plane number: 3186
+Surfel point number: 129093
+        [DataAssociationInRefinement] costs 85103.47 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 15, Initial cost: 3.317776e+03, Final cost: 3.313986e+03, Termination: CONVERGENCE
+Iteration, 2
+imu_calibration_ros1
+         P_LinI, -0.881, -0.221, 0.052
+     euler_LtoI, 0.35, -178.58, 0.13
+         p_IinL, -0.882, 0.222, 0.032
+     euler_ItoL, 0.34, 178.58, 0.12
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.04, -0.75
+        gravity, -0.128, 0.519, 9.782
+     accel bias, -0.0130, 0.0028, 0.0257
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.615, 0.267, 0.118
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter2.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter2-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter2-seg0.pcd; size: 3376749
+[Paper] Refinement costs 98258.71 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-2.txt
+
+====== Iteration 3 ======
+        [Refinement] costs 13156.86 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2238  590  324; Plane number: 3152
+Surfel point number: 129887
+        [DataAssociationInRefinement] costs 84688.55 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 20, Initial cost: 3.313474e+03, Final cost: 3.311456e+03, Termination: CONVERGENCE
+Iteration, 3
+imu_calibration_ros1
+         P_LinI, -0.909, -0.211, -0.295
+     euler_LtoI, 0.36, -178.57, 0.19
+         p_IinL, -0.901, 0.216, -0.316
+     euler_ItoL, 0.35, 178.56, 0.18
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.76
+        gravity, -0.129, 0.518, 9.782
+     accel bias, -0.0105, 0.0032, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.620, 0.262, 0.118
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter3.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter3-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter3-seg0.pcd; size: 3381173
+[Paper] Refinement costs 101639.13 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-3.txt
+
+====== Iteration 4 ======
+        [Refinement] costs 16952.92 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2251  582  307; Plane number: 3140
+Surfel point number: 130416
+        [DataAssociationInRefinement] costs 84139.69 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 20, Initial cost: 3.311271e+03, Final cost: 3.309835e+03, Termination: CONVERGENCE
+Iteration, 4
+imu_calibration_ros1
+         P_LinI, -0.938, -0.198, -0.512
+     euler_LtoI, 0.36, -178.56, 0.23
+         p_IinL, -0.924, 0.205, -0.534
+     euler_ItoL, 0.36, 178.56, 0.22
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.76
+        gravity, -0.129, 0.518, 9.782
+     accel bias, -0.0084, 0.0036, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.625, 0.261, 0.114
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter4.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter4-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter4-seg0.pcd; size: 3390073
+[Paper] Refinement costs 101195.75 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-4.txt
+
+====== Iteration 5 ======
+        [Refinement] costs 17058.73 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2276  545  316; Plane number: 3137
+Surfel point number: 131384
+        [DataAssociationInRefinement] costs 84358.24 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 16, Initial cost: 3.309698e+03, Final cost: 3.308662e+03, Termination: CONVERGENCE
+Iteration, 5
+imu_calibration_ros1
+         P_LinI, -0.954, -0.197, -0.517
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.939, 0.206, -0.539
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.75
+        gravity, -0.127, 0.517, 9.782
+     accel bias, -0.0058, 0.0044, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0018
+      plane cov, 0.629, 0.261, 0.110
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter5.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter5-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter5-seg0.pcd; size: 3400468
+[Paper] Refinement costs 98418.64 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-5.txt
+
+====== Iteration 6 ======
+        [Refinement] costs 14069.21 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2314  514  290; Plane number: 3118
+Surfel point number: 131476
+        [DataAssociationInRefinement] costs 82054.61 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308806e+03, Final cost: 3.308572e+03, Termination: CONVERGENCE
+Iteration, 6
+imu_calibration_ros1
+         P_LinI, -0.953, -0.196, -0.515
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.939, 0.205, -0.538
+     euler_ItoL, 0.36, 178.55, 0.33
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.75
+        gravity, -0.127, 0.518, 9.782
+     accel bias, -0.0059, 0.0045, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.635, 0.260, 0.105
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter6.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter6-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter6-seg0.pcd; size: 3399448
+[Paper] Refinement costs 86152.56 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-6.txt
+
+====== Iteration 7 ======
+        [Refinement] costs 4100.51 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2327  499  287; Plane number: 3113
+Surfel point number: 131574
+        [DataAssociationInRefinement] costs 81895.40 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308842e+03, Final cost: 3.308681e+03, Termination: CONVERGENCE
+Iteration, 7
+imu_calibration_ros1
+         P_LinI, -0.953, -0.196, -0.514
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.938, 0.204, -0.537
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.75
+        gravity, -0.128, 0.518, 9.782
+     accel bias, -0.0060, 0.0045, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0018
+      plane cov, 0.633, 0.262, 0.105
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter7.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter7-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter7-seg0.pcd; size: 3402195
+[Paper] Refinement costs 86015.50 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-7.txt
+
+====== Iteration 8 ======
+        [Refinement] costs 4123.39 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2317  504  294; Plane number: 3115
+Surfel point number: 131878
+        [DataAssociationInRefinement] costs 81651.22 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308972e+03, Final cost: 3.308832e+03, Termination: CONVERGENCE
+Iteration, 8
+imu_calibration_ros1
+         P_LinI, -0.953, -0.195, -0.513
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.938, 0.204, -0.536
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.75
+        gravity, -0.128, 0.518, 9.782
+     accel bias, -0.0060, 0.0045, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.633, 0.262, 0.105
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter8.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter8-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter8-seg0.pcd; size: 3409749
+[Paper] Refinement costs 85722.33 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-8.txt
+
+====== Iteration 9 ======
+        [Refinement] costs 4075.61 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2316  496  297; Plane number: 3109
+Surfel point number: 131472
+        [DataAssociationInRefinement] costs 81526.75 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308781e+03, Final cost: 3.308657e+03, Termination: CONVERGENCE
+Iteration, 9
+imu_calibration_ros1
+         P_LinI, -0.953, -0.195, -0.512
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.938, 0.204, -0.534
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.75
+        gravity, -0.128, 0.518, 9.782
+     accel bias, -0.0061, 0.0045, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0018
+      plane cov, 0.633, 0.261, 0.106
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter9.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter9-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter9-seg0.pcd; size: 3398842
+[Paper] Refinement costs 85628.22 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-9.txt
+
+====== Iteration 10 ======
+        [Refinement] costs 4112.24 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2330  497  291; Plane number: 3118
+Surfel point number: 131164
+        [DataAssociationInRefinement] costs 81812.20 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308755e+03, Final cost: 3.308623e+03, Termination: CONVERGENCE
+Iteration, 10
+imu_calibration_ros1
+         P_LinI, -0.953, -0.195, -0.511
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.938, 0.204, -0.533
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.03, -0.75
+        gravity, -0.128, 0.519, 9.782
+     accel bias, -0.0062, 0.0045, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0018
+      plane cov, 0.634, 0.261, 0.106
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter10.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter10-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter10-seg0.pcd; size: 3399746
+[Paper] Refinement costs 85844.42 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-10.txt
+
+====== Iteration 11 ======
+        [Refinement] costs 4037.03 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2324  499  297; Plane number: 3120
+Surfel point number: 131387
+        [DataAssociationInRefinement] costs 81773.50 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308836e+03, Final cost: 3.308713e+03, Termination: CONVERGENCE
+Iteration, 11
+imu_calibration_ros1
+         P_LinI, -0.952, -0.195, -0.509
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.938, 0.204, -0.532
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.04, -0.75
+        gravity, -0.128, 0.519, 9.782
+     accel bias, -0.0063, 0.0046, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0018
+      plane cov, 0.634, 0.260, 0.106
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter11.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter11-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter11-seg0.pcd; size: 3403073
+[Paper] Refinement costs 85830.80 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-11.txt
+
+====== Iteration 12 ======
+        [Refinement] costs 4059.53 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2324  505  296; Plane number: 3125
+Surfel point number: 131842
+        [DataAssociationInRefinement] costs 82275.61 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308875e+03, Final cost: 3.308743e+03, Termination: CONVERGENCE
+Iteration, 12
+imu_calibration_ros1
+         P_LinI, -0.953, -0.194, -0.508
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.938, 0.203, -0.531
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.04, -0.75
+        gravity, -0.128, 0.519, 9.782
+     accel bias, -0.0064, 0.0046, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0019
+      plane cov, 0.632, 0.262, 0.105
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter12.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter12-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter12-seg0.pcd; size: 3409821
+[Paper] Refinement costs 86483.87 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-12.txt
+
+====== Iteration 13 ======
+        [Refinement] costs 4213.67 ms
+        [DataAssociationInRefinement] starts ...
+get refined map done
+Plane type  :2323  501  294; Plane number: 3118
+Surfel point number: 131589
+        [DataAssociationInRefinement] costs 82002.27 ms
+        [Refinement] starts ...
+Ceres Solver Report: Iterations: 2, Initial cost: 3.308933e+03, Final cost: 3.308789e+03, Termination: CONVERGENCE
+Iteration, 13
+imu_calibration_ros1
+         P_LinI, -0.952, -0.194, -0.507
+     euler_LtoI, 0.37, -178.55, 0.33
+         p_IinL, -0.938, 0.203, -0.530
+     euler_ItoL, 0.36, 178.55, 0.32
+=========================
+segment id  : 0
+    time offset, -0.0099
+       g_refine, -3.04, -0.75
+        gravity, -0.128, 0.519, 9.782
+     accel bias, -0.0065, 0.0046, 0.0256
+      gyro bias, -0.0007, 0.0006, -0.0018
+      plane cov, 0.632, 0.263, 0.105
+Save trajectory at /bags/imu_calibration_ros1/trajectory-lidar-10.000000-60.000000-iter13.txt
+Save refined map to /bags/imu_calibration_ros1/refined_map-iter13-seg0.pcd; size: 5368801
+Save surfel map to /bags/imu_calibration_ros1/surfel_map-iter13-seg0.pcd; size: 3402613
+[Paper] Refinement costs 86050.04 ms
+Save lidar intrinsic to /bags/imu_calibration_ros1/lidar-13.txt
+[li_calib_node_batch-1] process has finished cleanly
+log file: /root/.ros/log/8b4cf706-0678-11f0-b18e-3e892cb5ba39/li_calib_node_batch-1*.log
+all processes on machine have died, roslaunch will exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+done

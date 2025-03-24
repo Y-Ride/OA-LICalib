@@ -423,13 +423,14 @@ void LICalibrHelper::SaveCalibResult(
   if (!boost::filesystem::exists(calib_result_file)) {
     std::ofstream outfile;
     outfile.open(calib_result_file, std::ios::app);
-    outfile << "imu_topic,iteration_step，"
-            << "p_IinL.x，p_IinL.y，p_IinL.z，"
-            << "q_ItoL.x，q_ItoL.y，q_ItoL.z，q_ItoL.w，"
-            << "time_offset，"
-            << "g_refine.x，g_refine.y，gravity.z，"
-            << "gyro_bias.x，gyro_bias.y，gyro_bias.z，"
-            << "acce_bias.x，acce_bias.y，acce_bias.z"
+    outfile << "bag_name,imu_topic,iteration_step,"
+            << "segment_start_time,segment_end_time,"
+            << "p_IinL.x,p_IinL.y,p_IinL.z,"
+            << "q_ItoL.x,q_ItoL.y,q_ItoL.z,q_ItoL.w,"
+            << "time_offset,g_refine.x,g_refine.y,"
+            << "gravity.x,gravity.y,gravity.z,"
+            << "gyro_bias.x,gyro_bias.y,gyro_bias.z,"
+            << "acce_bias.x,acce_bias.y,acce_bias.z"
             << "\n";
     outfile.close();
   }

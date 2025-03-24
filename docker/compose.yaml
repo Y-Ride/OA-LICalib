@@ -1,0 +1,20 @@
+services:
+  imu_calibration_ros1:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: imu_calibration_ros1
+    container_name: imu_calibration_ros1
+    environment:
+      - DISPLAY=${DISPLAY}
+      - QT_X11_NO_MITSHM=1
+    volumes:
+      - $HOME/.Xauthority:/root/.Xauthority:rw
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      - $HOME/calibration_imu/OA-LICalib:/root/catkin_oa_calib/src/OA-LICalib
+      - $HOME/calibration_imu/bags:/bags:rw
+    devices:
+      - /dev/dri:/dev/dri
+    stdin_open: true
+    tty: true
+    

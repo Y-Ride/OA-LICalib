@@ -15,3 +15,6 @@ CMakeLists.txt.user
 simu_bag/
 
 launch/.vscode/
+
+bags/results/imu_calibration_ros1
+**.bag

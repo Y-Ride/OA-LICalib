@@ -1,12 +1,12 @@
 # bag
-topic_lidar: /scan_sim # /velodyne_packets #
-topic_imu: /imu_sim
+topic_lidar: /ouster_top/points # /velodyne_packets #
+topic_imu: /inertial_sense/imu_raw
 
-LidarModel: VLP_16_SIMU
+LidarModel: Ouster_32_points
 vlp16_ring_case: 0
 
 scan4map: 15.0
-ndtResolution: 0.5 # 0.5 for indoor case and 1.0 for outdoor case
+ndtResolution: 1.0 # 0.5 for indoor case and 1.0 for outdoor case
 ndt_key_frame_downsample: 0.1
 map_downsample_size: 0.25
 
@@ -17,7 +17,8 @@ use_gui: false
 # 当 segment_num = 1时，即用一段数据标定
 segment_num: 1
 selected_segment:
-  - {start_time: 0, end_time: 7, path_bag: /home/ha/catkin_oa_calib/src/OA-LICalib/data/bag/simu_bag.bag}
+  - {start_time: 10, end_time: 60, path_bag: /bags/imu_calibration_ros1.bag} # This bag has a total duration of 155s
+  # - {start_time: 0, end_time: 7, path_bag: /root/catkin_oa_calib/src/OA-LICalib/data/bag/simu_bag.bag}
 
 
 # If you select false, it calculate initial rotations.
@@ -34,19 +35,24 @@ lock_accel_bias: false
 opt_timeoffset: false
 timeoffset_padding: 0.01
 
-opt_lidar_intrinsic: true
-opt_IMU_intrinsic: true
+opt_lidar_intrinsic: false
+opt_IMU_intrinsic: false
 
 iteration_num: 14
 
 # For CalibParamManager
 extrinsic:
-  Trans: [0.25, 0.13, 0.07]
-  Trans_prior: [0.25, 0.13, 0.07]
+  # Trans: [0.25, 0.13, 0.07]
+  # Trans_prior: [0.25, 0.13, 0.07]
+  Trans: [-0.8128, 0.0762, -1.5748]
+  Trans_prior: [-0.8128, 0.0762, -1.5748]
 
-  Rot: [1, 0, 0,
-       0, 1, 0,
-       0, 0, 1]
+  # Rot: [1, 0, 0,
+  #      0, 1, 0,
+  #      0, 0, 1]
+  Rot: [-1.0, 0.0, 0.0, 
+         0.0, 1.0, 0.0, 
+         0.0, 0.0, -1.0]
 
   # Trans: [0.3, 0.15, 0.05]
 
